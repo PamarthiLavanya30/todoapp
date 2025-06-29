@@ -1,0 +1,33 @@
+.item{
+    width:500px;
+    color:rgb(74, 3, 141);
+    font-size: 20px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.itemname{
+font-weight: bold;
+padding: 40px;
+padding-bottom: 20px;
+}
+.line{
+    border:1px solid rgb(220, 218, 223);
+}
+.deletebutton{
+    float: right;
+    padding: 10px 20px;
+    border: none;
+    background-color: rgb(195, 154, 233);
+    border-radius: 4px;
+    color:rgb(44, 3, 82);
+    cursor: pointer;
+    border: 0;
+    text-align: center;
+    margin-top: -15px;
+    font-size: large;
+    /* margin-bottom: 6px; */
+}
+.completed{
+    text-decoration: line-through;
+}
